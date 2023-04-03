@@ -1,1 +1,2 @@
 # Palindrome-Checker
+The task is to write a function that takes a string as input and returns true if the string is a palindrome (meaning it can be read the same way forward and backward), and false otherwise. To determine whether a string is a palindrome, ignore any non-alphanumeric characters (such as punctuation and spaces) and consider only the letters and numbers. Also, you should ignore the case of the letters, meaning uppercase and lowercase letters should be considered the same when checking for palindromes.
